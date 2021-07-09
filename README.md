@@ -1,4 +1,4 @@
-# Responsive-Portfolio-Landing-Page-Design-With-Aniation
+# Responsive-Portfolio-Landing-Page-Design-With-Animation
 
 ## More Website Development Content Visit [RustcodeWeb](https://www.rustcodeweb.com/)
 
